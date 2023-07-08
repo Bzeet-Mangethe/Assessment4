@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\bin\Debug\ass4Assessment8910.exe.config
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\bin\Debug\ass4Assessment8910.exe
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\bin\Debug\ass4Assessment8910.pdb
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\obj\Debug\ass4Assessment8910.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\obj\Debug\ass4Assessment8910.exe
+C:\Users\bhekanimasinga\Documents\ass4Assessment8910\ass4Assessment8910\obj\Debug\ass4Assessment8910.pdb
